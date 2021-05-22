@@ -1,32 +1,17 @@
-<h1 align="center">Hi 👋, I'm Muslim-Squad</h1>
+<h1 align="center">Assalamu Alaikum 👋, We are Muslim-Squad</h1>
+<p align="center"><img src="https://github.com/Muslim-Squad/simple-calc/blob/main/20210419_041020.jpg"/></p>
 <h3 align="center">1 spammer way</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muslim-squad&label=Profile%20views&color=0e75b6&style=flat" alt="muslim-squad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muslim-squad" alt="muslim-squad" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/muslim-squad" target="blank"><img src="https://img.shields.io/twitter/follow/muslim-squad?logo=twitter&style=for-the-badge" alt="muslim-squad" /></a> </p>
-
-- 🔭 I’m currently working on **bash**
-
-- 🌱 I’m currently learning **perl**
-
-- 👯 I’m looking to collaborate on **Youtube**
-
-- 👨‍💻 All of my projects are available at [https://muslim-squad.blogspot.com](https://muslim-squad.blogspot.com)
-
-- 📝 I regularly write articles on [https://muslim-squad.blogspot.com](https://muslim-squad.blogspot.com)
-
-- 💬 Ask me about **Termux**
-
-- 📄 Know about my experiences [https://muslim-squad.blogspot.com](https://muslim-squad.blogspot.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/muslim-squad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="muslim-squad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muslim-squad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="muslim-squad" height="30" width="40" /></a>
-<a href="https://instagram.com/muslim-squad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="muslim-squad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/muslim-squad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="muslim-squad" height="30" width="40" /></a>
+<a href="https://twitter.com/muslim-squad" target="blank"><img align="center" src="https://github.com/Muslim-Squad/simple-calc/blob/main/twitter-logo-png-5859.png" alt="muslim-squad" height="30" width="40" /></a>
+<a href="https://instagram.com/muslim-squad" target="blank"><img align="center" src="https://github.com/Muslim-Squad/simple-calc/blob/main/logo-instagram-png-13547.png" alt="muslim-squad" height="30" width="40" /></a>
+<a href="https://m.youtube.com/channel/UCXkxbgYQX_wqCGu8bAKGhOA" target="blank"><img align="center" src="https://github.com/Muslim-Squad/simple-calc/blob/main/youtube-logo-png-46031.png" alt="muslim-squad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
