@@ -1,5 +1,5 @@
 <h1 align="center">Assalamu Alaikum 👋, We are Muslim-Squad</h1>
-<p align="center"><img src="https://github.com/Muslim-Squad/simple-calc/blob/main/20210419_041020.jpg"/></p>
+<a href="https://ibb.co/HVMgKrm"><img src="https://i.ibb.co/nbVkwDh/FB-IMG-1642690220273.jpg" alt="FB-IMG-1642690220273" border="0"></a>
 <h3 align="center">1 spammer way</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muslim-squad&label=Profile%20views&color=0e75b6&style=flat" alt="muslim-squad" /> </p>
